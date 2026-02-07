@@ -4,7 +4,7 @@
 # Advanced SQL Injection Exploitation Tool
 # ============================================
 
-chmod +x advanced_sqlmap.sh
+chmod +x advanced_sqlmap.sh 
 sudo ./advanced_sqlmap.sh
 
 # Renkler
